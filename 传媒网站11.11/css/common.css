@@ -1,0 +1,178 @@
+.middle {min-height:600px;}
+.bannar, .banna, .middle {position: relative;overflow: hidden;}
+.Mask {width:100%;height: 1280px;background: rgba(0, 0, 0, 0.7);position:fixed;z-index: 9999;}
+.Mask img {margin: 20px auto;}
+.block{display: block !important;}
+.none{display: none !important;}
+body {border-top: 3px solid #e60012;}
+/*头部*/
+.header {position: fixed;top: 0;z-index: 1;height: 50px;padding: 20px 0;line-height: 50px;background: rgba(255, 255, 255, 0.6);}
+.header #navtop {width: 1250px;margin: 0 auto;}
+.header h1 {width: 244px;}
+.header li {padding: 0 20px;min-width: 100px;}
+.header li a {font-size: 18px;}
+.header li:last-child {padding-left: 35px;background: url("../images/phone.png") 5% center no-repeat;}
+/*头部结束*/
+/*底部开始*/
+.footer {background: #282828;height: 240px;padding-top: 60px;}
+.footer .fir {float: left;width: 280px;height: 125px;padding-top: 40px;border-right: 1px solid #333;}
+.footer .fir a {height: 60px;margin: 20px 20px 0 0;}
+.footer .two {width: 315px;border-right: 1px solid #333;}
+.footer .two, .footer .thr {padding: 0 30px;border-left: 1px solid #191919;}
+.footer .two h2, .footer .thr h2 {height: 40px;font-size: 20px;color: #fffefe;line-height: 40px;}
+.footer span {margin-top: 60px;height: 60px;background: #282828;line-height: 60px;color: #ccc;border-top: 1px solid #333;}
+.footer .two p, .footer .thr p {border-bottom: 1px solid #191919;border-top: 1px solid #333;}
+.footer .two p a, .footer .thr p a, .footer .thr p strong, .footer .two p strong {line-height: 30px;font-size: 18px;color: #ccc;}
+.footer .two p {line-height: 60px}
+.footer p strong {margin-right: 5px}
+/*底部结束*/
+.banna div {height: 250px;padding-top: 75px;margin: -150px 0 0 -600px;}
+.banna div h2 {font-size: 84px;line-height: 100px;}
+.banna div p {width: 780px;margin: 0 0 40px 220px;}
+.banna div span {font-size: 40px;line-height: 60px;padding: 0 15px;}
+.banna div b {height: 60px;font-size: 20px;line-height: 60px;}
+.banna div h3 {margin-right: 300px;}
+.banna div h3, .banna div h3 img {width: 225px;height: 45px;}
+.middle1 .help {width: 1235px;height: 685px;margin: -342px 0 0 -618px;}
+.middle1 .help a img {border: 3px solid #fb2d2d;}
+.middle1 .help a:nth-child(1), .middle1 .help a:nth-child(2), .middle1 .help a:nth-child(3), .middle1 .help a:nth-child(4) {top: -3%;}
+.middle1 .help a:nth-child(2), .middle1 .help a:nth-child(6) {left: 25%}
+.middle1 .help a:nth-child(3), .middle1 .help a:nth-child(7) {left: 50%;}
+.middle1 .help a:nth-child(4), .middle1 .help a:nth-child(8) {left: 75%;}
+.middle1 .help a:nth-child(5), .middle1 .help a:nth-child(6), .middle1 .help a:nth-child(7), .middle1 .help a:nth-child(8) {bottom: 3%;}
+.middle4 .help a:nth-child(4), .middle1 .help a:last-child, .middle3 .help a:nth-child(4){right: 0.5%;bottom: -2%;font-size: 16px;color: #333;padding-right:30px;background: url("../images/more.png") 90% center no-repeat;background-size: 18% 80%;}
+.middle3 .help a:nth-child(4){display: inline-block;height: 22px;}
+.middle4 .help .moream a{bottom:0;right:0.5% !important;bottom:0 !important;font-size:16px;color:#333;padding-right:30px;background:url('../images/more.png')90% center no-repeat;background-size:18% 80%;height:20px;display:inline-block;line-height:20px;margin-left:1125px}
+.middle4 .help .moream a:hover, .middle1 .help a:last-child:hover, .middle3 .help a:nth-child(4):hover{background: url("../images/more2.png") 90% center no-repeat;background-size: 18% 80%;color: #e60012}
+.middle2 .help {width: 1400px;height: 540px;margin: -270px 0 0  -700px;}
+.middle2 .help h2, .middle4 .help h3 {width: 365px;height: 95px;font-size: 56px;line-height: 95px;background: url("../images/h2.png") center center no-repeat;}
+.middle2 .help p, .middle4 .help p {line-height: 85px;font-size: 28px;}
+.middle2 .helpt .service {width: 20%;padding-top: 50px;}
+.middle3 .help {height: 600px;margin: -300px 0 0 -600px;}
+.middle3 .help h2 {width: 190px;height: 60px;padding: 3px;border: 2px solid #fb2d2d;margin-bottom: 15px;}
+.middle3 .help em {width: 95px;height: 45px;margin-bottom: 25px;line-height: 45px;background: #656565;color: #fff;font-size: 18px;}
+.middle3 .help ul {padding: 10px 33px 55px 33px;background: #fb2d2d;}
+.middle3 .help ul, .middleth p{color:#fff;}
+.middle3 .help ul li {height: 55px;padding-top: 25px;border-bottom: 1px dotted #fff;}
+.middle3 .help ul li a {width: 1134px;color: #fff;line-height: 55px;font-size: 24px;text-indent: 0.5em;}
+.middle3 .help ul li a:hover {background: #fff;color: #fb2d2d;}
+.middle4 .imgxq h3{background: none;font-size: 18px;line-height: 1.5;height: 45px;}
+.middle4 .help {width: 1220px;height: 730px;margin: -365px 0 0 -610px;}
+.middle4 .img {position: relative;overflow: hidden;width: 300px;height: 455px;padding: 30px 40px;margin-right: 40px}
+.middle4 .img a {color: #fff;}
+.middle4 .img span {width: 100%;line-height: 35px;}
+.middle4 .img span, .middle4 .img h2 {font-size: 22px;}
+.middle4 .img:nth-child(3) {background: url(../images/index1.jpg) center center no-repeat;}
+.middle4 .img:nth-child(4) {background: url(../images/index2.jpg) center center no-repeat;}
+.middle4 .img:nth-child(5) {background: url(../images/index4.jpg) center center no-repeat;margin-right: 0}
+.middle4 .img p {padding-top: 310px;font-size: 16px;line-height: 30px;}
+.middle4 .img div {bottom: -265px;left: 0px;width: 360px;height: 245px;padding: 10px;background: rgba(252, 38, 38, 0.7);opacity: 0}
+.middle4 .img div h3 {line-height: 45px;border-bottom: 1px solid #fff;}
+.middle4 .img div p {padding-top: 0;border: none;margin-top: 15px;line-height: 20px;font-size: 14px;text-align: left;}
+.bannar .Whitebars{height: 260px;padding-top:45px;background :rgba(255, 255, 255, 0.4);position: absolute;top: 50%;left:0;margin: -153px 0 0 0;}
+.bannar .Whitebars dt {padding-left: 50px;}
+.bannar .Whitebars dt img {padding: 0 100px;}
+.bannar .Whitebars dd {width: 735px;}
+.middleon{background: #fff;}
+.middletw{background: #eee;}
+.middleon p, .middletw p, .middleth p {line-height: 35px;font-size: 20px;}
+.middleon, .middletw, .middleth {height: 710px;}
+.wrap .main h2 {font-size: 42px;margin-top: 50px;line-height: 60px;}
+.wrap .main h3 {font-size: 24px;margin-bottom: 50px}
+.wrap .main #cus li {height: 40px;line-height: 40px;font-size: 18px;padding-left: 45px;}
+.wrap .main #cus li:nth-child(1), .wrap .main #cus li:nth-child(3), .wrap .main #cus li:nth-child(5) {width: 540px;}
+.wrap .main #cus li:nth-child(2), .wrap .main #cus li:nth-child(4), .wrap .main #cus li:nth-child(6) {width: 410px;}
+.wrap .main .erweima img {width: 121px;height: 121px;}
+.wrap .main ul {width: 1040px;}
+.wrap .main #cus li:nth-child(1){background: url(../images/cus.png) 0 8px no-repeat}
+.wrap .main #cus li:nth-child(2){background: url(../images/cus_02.png) 0px 9px no-repeat}
+.wrap .main #cus li:nth-child(3){background: url(../images/cus.png) 0px -98px no-repeat}
+.wrap .main #cus li:nth-child(5){background: url(../images/cus.png) 0px -144px no-repeat}
+.wrap .main #cus li:nth-child(6){background: url(../images/cus.png) 0px -192px no-repeat}
+.wrap .serer{position: relative;margin:0 auto;overflow: hidden;}
+.wrap .serer:last-child{padding-bottom: 60px;}
+.wrap .serer h2 {width: 315px;height: 330px;background: rgba(255,255,255,0.7);position: absolute;left:100px;top: 20px}
+.wrap .serer h2 a {width: 220px;height: 255px;margin: 35px auto;}
+.wrap .serer h2 img{width: 220px;padding: 36px 47px;}
+.wrap .serPR h2 {padding-top: 40px;font-size: 30px;line-height: 60px}
+.wrap .serPR h3{font-size: 16px;color: #666;line-height: 30px;border-bottom: 1px solid #999}
+.wrap .serPR p{font-size: 16px;padding: 25px 0 70px 0;line-height: 30px}
+.wrap .serPR h4{font-size: 18px;line-height: 40px;background: url(../images/border.png) 0 100% no-repeat}
+.wrap .serPR h4 a{font-size: 16px;color: #666;padding-right: 28px;background: url(../images/morey.png) 100% center no-repeat;background-size: auto 50%;}
+.wrap .serPR img {margin-top: 20px;margin-bottom: 57px;width: 388px;}
+.wrap .serPR img:nth-child(6) {margin: 20px 18px 57px 18px}
+.wrap .work h2 {font-size: 38px;line-height: 60px}
+.wrap .work h3 {font-size: 18px;line-height: 50px}
+.wrap .work ul{line-height: 36px;font-size: 16px}
+.wrap .work ul a{font-size: 16px;margin:0 20px;color: #666}
+.wrap .work ul a:hover{border-bottom: 2px solid #e60012;}
+.wrap .work ul .black{color: #000;border-bottom: 2px solid #e60012;font-weight: 600}
+.wrap .work dl {width: 435px;height: 520px;background: #f6f6f6;margin: 0 20px 20px 0;position: relative;overflow: hidden}
+.wrap .work dl img {width: 100%;height: 260px;background:#ccc;}
+.wrap .work dd {width: 395px;height: 210px;padding:30px 20px 20px;position: relative;}
+.wrap .work .mas {width: 100%;height: 260px;background: rgba(230, 0, 18, 0.6);position: absolute;left: 100%;top: 0;opacity: 0}
+.wrap .work .mas a img{display:block;width: 70px;height: 70px;background: none;margin:95px auto;}
+.wrap .works dd h3{overflow: hidden;text-overflow: ellipsis;float: left;white-space: nowrap;}
+.wrap .works dd span{width: 45%;text-align: right;color:#666;line-height: 50px}
+.wrap .works dd p:nth-child(3) {width: 100%;float: left;max-height: 140px;overflow:auto;text-align: justify;display: -webkit-box; -webkit-box-orient: vertical;-webkit-line-clamp: 3;overflow: hidden;}
+.wrap .works dd a {float: left;padding:0 10px;background: #e93140;color: #fff;height: 27px;line-height: 27px;margin:5px;}
+.wrap .works dd p:nth-child(4){position: absolute;bottom: 20px;}
+.wrap .workdetail .navh{width: 100%;padding-top: 150px;height: auto;}
+.wrap .workdetail .navh h2 {font-size: 32px;line-height: 50px}
+.wrap .workdetail .navh h3{font-size: 32px;line-height: 50px;background: url(../images/border.png) 100% 100% no-repeat;}
+.wrap .workdetail .navh em{font-size: 20px}
+.wrap .workdetail .navh p {font-size: 16px;line-height: 30px;margin-top:20px}
+.wrap .workdetail .bimg {padding-bottom: 80px}
+.middle4 .help p, .wrap .workdetail .bimg img {margin-bottom:20px}
+.wrap .new .top{padding-top: 80px;-webkit-box-shadow: 0 1px 0 #ccc;-moz-box-shadow: 0 1px 0 #ccc;-ms-box-shadow: 0 1px 0 #ccc;box-shadow: 0 1px 0 #ccc;}
+.wrap .new .center h2 {font-size: 24px;line-height: 40px;}
+.wrap .new .top span {font-size: 20px;color: #666;padding-top:10px}
+.wrap .serer, .wrap .new .news, .wrap .new .news dl{padding-top: 20px}
+.wrap .new .news dl dt, .wrap .new .news dl img{width: 385px;}
+.wrap .new .news dd{width: 770px;position: relative;text-align: justify;}
+.wrap .new .news dd h3 a{display:block;font-size: 26px;color: #e60012;padding-left: 5px;border-left: 4px solid #e60012;margin-bottom: 20px}
+.wrap .new .news dd p{line-height: 2;margin-top: 10px}
+.wrap .new .news dd span{font-size: 28px;color: #fff;line-height: 60px;margin-left: 10px;}
+.wrap .new .news dd em a{width: 98px;height: 28px;line-height: 28px;font-size: 12px;margin-right:10px;margin-top: 16px}
+.wrap .new .news .pagelis{margin:0 auto;padding:80px 0 234px 0;}
+.wrap .new .top span, .wrap .new .news .pagelis div a {display: inline-block}
+.wrap .new .news .pagelis .prev a{background: #d6d6d6;color: #fff;width: 70px;border:none;height: 37px;}
+.wrap .new .news .pagelis a{font-size: 16px;padding:0;width: 35px;height: 35px;border:1px solid #e60012;line-height: 35px;text-align: center;margin-right: 10px}
+.wrap .new .news .pagelis .nex a{width: 70px;margin-right: 0;border:none;height: 37px;}
+.wrap .new .news dd em a, .wrap .new .news .pagelis .next, .wrap .new .news .pagelis .page a:hover {background: #e60012;color: #fff}
+.wrap .newDli .li {line-height: 52px}
+.wrap .newDli .li a {font-size: 20px;display:block;width: 100%;height: 50px;}
+.wrap .new .news dl img{height: 271px;}
+
+/*公共部分*/
+.middle3 .help ul li a, .wrap .newDli .li a, .wrap .new .news dd h3 a{
+	overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+.middle4 .img div, .middle1 .help a, .middle3 .help a {
+	position: absolute;}
+.wrap .serPR h2, .wrap .workdetail .navh h2, .wrap .main h2, .wrap .main h3, .wrap .newDli .li a  {
+	color: #e60012;}
+.wrap .new .news dd em a, .wrap .workdetail .navh em, .wrap .works dd span, .wrap .new .news dl dt, .wrap .new .news dl img, .wrap .serPR h4 a, .banna div h3, .banna div h3 img, .wrap .main .erweima {
+	float: right;}
+.wrap .new .news dd span, .wrap .new .news dd, .wrap .newD, .wrap .new .news .pagelis div, .wrap .new .center h2, .wrap .new .center span, .wrap .work dl, .wrap .work ul, .wrap .work strong, .wrap .work li, .wrap .work h2, .wrap .work h3, .wrap .serPR img, .wrap .main #cus li, .wrap .main ul, .wrap .main h2, .wrap .main h3, .wrap .main #cus li, .bannar .Whitebars dd h2, .bannar .Whitebars dt, .bannar .Whitebars dd, .footer .fir, .footer .two, .footer .thr, .footer .fir a, .banna div b, .middle4 .img p, .middle4 .img h2, .middle4 .img span, .middle4 .img, .middle2 .helpt .service, .header li, .banna div h2, .banna div p, .banna div span, .bannar div p {
+	float: left;}
+.wrap .new .news dd em a, .wrap .work ul, .wrap .main h3, .footer span, .header li, .banna div, .middle2 .help, .middle3 .help em, .wrap .main h2, .middle4 p, .middle4 h3 {
+	text-align: center;}
+.banna div, .middle1 .help, .middle2 .help, .middle3 .help, .middle4 .help {
+	position: absolute;left: 50%;top: 50%;}
+/*此处改	*/
+.header li a:nth-child(1) {
+	display: none;}
+.wrap .Singlepagetop img, .wrap .time, .wrap .newD, .wrap .new, .wrap .workdetail .bimg, .wrap .workdetail .bimg img, .wrap .work h3, .wrap .serer img, .wrap .main h2, .wrap .main h3, .bannar .Whitebars, .header, .footer span, .banna div h2, .middle2 .helpt, .middle4 .img p, .footer {
+	width: 100%;}
+.wrap .new .news dl, .wrap .new .center, .wrap .workdetail, .serPR, .wrap .serer, .wrap .main, .middleon .Horizontalverticalcenter, .middleth .Horizontalverticalcenter, .bannar .Whitebars dl, .banna div, .middle3 .help, .footer .foot {
+	width: 1200px;overflow: hidden;}
+.wrap .new .news dl, .wrap .new .center, .wrap .workdetail, .wrap .work ul, .wrap .work h2, .wrap .work h3, .serPR, .wrap .main, .middleon .Horizontalverticalcenter, .middleth .Horizontalverticalcenter, .bannar .Whitebars dl, .middle2 .help h2, .middle4 .help h3, .middle2 .helpt .service img, .footer .foot {
+	margin: 0 auto;}
+.wrap .new .news dd em a, .wrap .work ul a, .wrap .workdetail .bimg img, .wrap .serer p a, .Mask img, .footer span, .middle2 .helpt .service img, .middle3 .help em  {
+	display: block;}
+/*此处加*/
+.middle2 .helpt .service p:nth-child(2), .serer .service p:nth-child(2){display: none;}
+
+
+
+

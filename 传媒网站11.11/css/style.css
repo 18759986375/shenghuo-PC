@@ -1,0 +1,101 @@
+.header {position: fixed;left: 0;top: 0;background: #333;overflow: hidden;line-height: 40px;text-indent: 1em}
+.header li {text-align: left;}
+.banna img {width: auto !important;height: auto !important; }
+.banna div h2{font-size: 26px;line-height: 50px}
+.banna div b, .wrap .new .news dd em a, .wrap .new .news .pagelis a{font-size: 12px}
+.wrap .newD, .middle1 .help a, .middleon p, .middletw p, .middleth p, .wrap .serPR h2, .wrap .serPR h3, .wrap .serPR p, .wrap .serPR h4, .wrap .serPR img, .wrap .workdetail .navh p, .wrap .workdetail .navh img, .wrap .new .news dl{width: 90%;margin:5px 5%;float: left;}
+.middle1 .help a:last-child{padding:10px 30px 10px 10px;background-size: 20% 45%;}
+.middle2 .help h2, .middle4 .help h3{width: 200px;font-size: 30px;height: 60px;background-size: 100%;line-height: 60px}
+.middle2 .help p, .middle4 .help p{font-size: 20px;line-height: 40px}
+.footer .fir{margin: -20px -40px;}
+.footer .two, .wrap .main #cus li, .wrap .new .news dl dt, .wrap .new .news dl img{width: 258px !important;}
+.middleth .Horizontalverticalcenter h2{font-size: 30px !important;padding-bottom: 0 !important}
+.bannar .Whitebars dt{width: 215px;}
+.banna div span, .footer .two h2, .footer .thr h2, .middleon p, .middletw p, .middleth p, .wrap .workdetail .navh em, .wrap .newDli .li a{font-size: 16px}
+.footer .thr p strong, .footer .two p strong, .footer .thr p a, .footer .two p a, .middle3 .help ul li a{font-size: 14px;}
+.footer,.middle2 .helpt .service, .middle3 .help ul li, .wrap .new .top, .wrap .new .top span{padding-top: 0;}
+.middle2 .helpt .service{position: absolute;}
+.footer,.middle2 .helpt .service:nth-child(1){left:5%;top: 33%}
+.footer,.middle2 .helpt .service:nth-child(2){left:35%;top: 33%}
+.footer,.middle2 .helpt .service:nth-child(3){left:65%;top: 33%}
+.footer,.middle2 .helpt .service:nth-child(4){left:20%;top: 48%}
+.footer,.middle2 .helpt .service:nth-child(5){left:50%;top: 48%}
+.middle2 .helpt .service {width: 30%;}
+.wrap .work li {height: 32px;}
+.middle3 .help, .middle img:nth-child(1){top: 0 !important;left: 0 !important;margin:0 !important;}
+.middle2 .help, .Singlepagetop{padding-top: 80px}
+.middle3 .help h2{width: 80px;height: 40px;margin:30px 0 10px 0;}
+.middle3 .help h2 a{width: 74px !important;height: 34px !important;font-size: 18px !important;line-height: 34px}
+.middle3 .help em{width: 70px;height: 40px;margin-bottom: 10px}
+.middle3 .help ul{padding: 5px;margin-bottom: 10px}
+.middle3{min-height: 400px}
+.middle3 .help{padding-top: 15%}
+.middle4 .help h3{margin-top: 30px}
+.bannar, .bannar img[style="width: 100%"], .bannar .Whitebars, #divMap{height: 500px !important;}
+.bannar .Whitebars{top: 0;margin:0;padding-top: 100px;}
+.wrap .serPR h2, .bannar .Whitebars dd h2, .bannar .Whitebars dd span, .newDli h2, .newL h2,.wrap .new .center h2{font-size: 22px !important;}
+.bannar div p, .wrap .time, .work .works, .wrap .work dd{font-size: 16px !important;width: 90% !important;padding:0 5% !important;}
+.Horizontalverticalcenter img, .wrap .work li{width: 50%;}
+.wrap .serPR img:nth-child(6){margin: 5px 5%;}
+.wrap .main #cus li, .wrap .main .erweima{margin-left: 10px}
+.wrap .main h2{font-size: 34px;margin-top: 30px}
+.wrap .main h3{font-size: 20px;margin-bottom:20px;}
+.wrap .main #cus li{padding-left: 30px}
+.wrap .workdetail .navh h2 {font-size: 24px;}
+.wrap .workdetail .navh h3, .wrap .newDli .li, .wrap .new .top span {font-size: 18px;line-height: 40px;}
+.wrap .newDli .li a{height: 30px}
+.wrap .new .news dl dt, .wrap .new .news dl img{height: 185px;}
+.wrap .new .news dd span{right: initial;left: 65px;font-size: 24px;top: -130px;line-height: 50px}
+.wrap .new .news dd em a{margin-top: 11px}
+.wrap .new .news dd em a{right: initial;left: 88px;top: -80px;width: 70px;}
+.wrap .new .news .pagelis .prev a, .wrap .new .news .pagelis .nex a{width: 45px}
+.wrap .new .news .pagelis a, .wrap .new .news .pagelis .prev a, .wrap .new .news .pagelis .nex a{margin-right: 0}
+.wrap .new .news .pagelis a{width: 30px}
+.wrap .new:after {content:"\200B"; display:block; height:0; clear:both; }.wrap .new{*zoom:1;}
+.wrap .new .news .pagelis{padding: 20px 0 50px 0;}
+.wrap .new .news dd h3 a{width: 300px;font-size: 20px;margin-bottom:0}
+.wrap .new .news dd p{display: -webkit-box;-webkit-box-orient: vertical;-webkit-line-clamp: 3;overflow: hidden;}
+#main {width: 90% !important;margin-left: 7% !important;margin-bottom: 50px !important}
+.box {margin-right: 3% !important;width: 45% !important;}
+.content {padding:2% !important;}
+#moreimg {height: 40px !important;margin-bottom: 10px;width: 94% !important;background-size: 18% 80% !important}
+.wrap .works dd p:nth-child(3) {display: -webkit-box;-webkit-box-orient: vertical;-webkit-line-clamp: 4;overflow: hidden;}
+.wrap .work div:nth-child(1){margin-top: 30px !important;width: 157px !important}
+.wrap .work h2, .wrap .work strong{font-size: 26px !important;line-height: 40px !important}
+.middle3 .help ul li a, .wrap .workdetail .navh h2, .wrap .work h3, .wrap .work ul {line-height: 30px}
+.wrap .serer {padding-top: 10px}
+.wrap .serer img, .wrap .serer h2 {height: 170px;}
+.wrap .serer h2{width: 170px;left: 20px;top: 10px}
+.wrap .serer h2 img{height: 105px;padding:32px 40px;}
+.wrap .new .news dd div{width: 258px !important;height: 50px !important;right:initial !important;left:0;bottom: 114px !important;}
+
+.Singlepagetop, .work .works {margin: 0 !important}
+.wrap .newL, .wrap .work ul, .middle4 .help {padding-bottom: 10px !important}
+.wrap .new .top, .wrap .main .erweima, .wrap .new .news .pagelis, .wrap .work ul a {float: left;}
+.bannar div p, .bannar .Whitebars, .bannar .Whitebars dd h2{text-align: center !important;}
+.bannar .Whitebars dt, .header li:last-child, .header li, .banna div span, .footer .fir, .bannar .Whitebars dt img, .wrap .new .news dd h3 a {
+	padding: 0}
+.footer .thr p strong, .footer .two p strong, .footer .thr p a, .footer .two p a, .wrap .serPR h2, .footer .two h2, .footer .thr h2, .footer span, .middle3 .help ul li, .wrap .new .news dd em a{
+	line-height: 30px;height: 30px;}
+.middle .help, .middle1 .help a, .middle3 .help a:nth-child(4){position: static;}
+.bannar .Whitebars dd span, .footer .fir, .footer .two, .middle1 .help a img, .middle4 .help p, .wrap .new .news dd h3 a{
+	border:none !important;}
+.header li a{color: #fff}
+.header li a:nth-child(1), .gol {display: block !important;}
+.header li a:nth-child(2), .wrap .work .mas {display: none;}
+.wrap .new .news dl img, .wrap .new .news dl dt, .middle4 .img, .bannar .Whitebars dt, .banna div h3 img, .banna div b, .banna div span, .banna div h2, .banna div p,.banna div h3{
+	float: none;}
+.middle3 .help ul li a, .wrap .serer, .work .works dl, .box img, .wrap .new .top, .pagelis, .wrap .new .news dd, .wrap .new .center, .newL img, .wrap, .newL, .newDli, .wrap .workdetail, #divMap, .wrap .main, .wrap .main ul, .serPR, .middleth .Horizontalverticalcenter, .middleon .Horizontalverticalcenter, .bannar .Whitebars dd, .bannar .Whitebars dd h2, .bannar .Whitebars dl, .middle4 .help, .middle2 .helpt .service img, .middle3 .help,/* .header #navtop,*/ .footer .foot, .middle2 .help, .middle1 .help a img, .middle1 .help, .banna div h3, .header li , .banna div p {
+	width: 100% !important;}
+.bannar .Whitebars dt, .middle4 .img:nth-child(5), .middle4 .img, .middle4 .help, .middle2 .help, .footer span, .banna div p, .middle1 .help {
+	margin:0 auto;}
+.wrap .serer h2 img, .wrap .serer img, .middle1 .help, .banna div h3 img, .middle1 .help a:last-child {
+	width: auto;}
+.wrap .work dl, .wrap .work dl img, .wrap .main #cus li, .middle4 .help, .middle4, .middle1 .help, .middle3 .help, .footer, .middle1{
+	height: auto !important;}
+.banna div h3 img, .footer .fir{
+	-webkit-transform: scale(0.5);-moz-transform: scale(0.5);-ms-transform: scale(0.5);transform: scale(0.5);}
+@media screen and (max-width: 380px) {
+	.middle4 .img{padding:10px;width:280px;height: 435px;margin-bottom:20px;}
+	.middle4 .img div{width: 280px;bottom: 0 !important;}
+}
